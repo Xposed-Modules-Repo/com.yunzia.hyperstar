@@ -1,4 +1,7 @@
 <div align="center">
+<picture  >
+<img src="https://github.com/YunZiA/HyperStar/blob/master/img/app_icon.png?raw=true" width="150" height="150" alt="icon"/>
+</picture>
 <h1>HypersStar</h1>
 
 [![GitHub License](https://img.shields.io/github/license/YunZiA/HyperStar)](https://github.com/YunZiA/HyperStar/blob/master/LICENSE)
